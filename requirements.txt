@@ -5,3 +5,4 @@ scipy
 openai==0.28.1
 openpyxl
 mord
+bertopic
