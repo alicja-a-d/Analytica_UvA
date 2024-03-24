@@ -6,3 +6,6 @@ openai==0.28.1
 openpyxl
 mord
 bertopic
+wordcloud
+nltk
+dataframe_image
