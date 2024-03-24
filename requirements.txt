@@ -9,3 +9,5 @@ bertopic
 wordcloud
 nltk
 dataframe_image
+TweetNormalizer 
+nltk emoji==0.6.0
