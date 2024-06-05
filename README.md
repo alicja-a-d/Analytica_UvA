@@ -14,7 +14,7 @@ This directory contains all the scripts and notebooks used for various analyses 
   - Code and files related to the labeling process of the dataset.
   
 - **LLM_comparison/**:
-  - Analysis of how different LLMs labeled the Politifact dataset.
+  - Analysis of how different LLMs labelled the Politifact dataset.
   
 - **random_sample/**:
   - Scripts for generating random samples from the tweets dataset for testing and analysis purposes.
@@ -28,14 +28,9 @@ This directory contains all the scripts and notebooks used for various analyses 
 - **tm_tweets/**:
   - Topic modeling analysis of the tweets dataset.
   
-- `tweets.ipynb`:
-  - A Jupyter notebook that integrates various analyses related to tweet data.
 
 ### 2. `data/`
 This directory contains all the datasets used and generated in the project.
-
-- `10_trial_tweet.xlsx`:
-  - Sample data used for initial trials and testing.
 
 - `1976-2020-president.csv`:
   - Dataset containing information about presidents from 1976 to 2020.
