@@ -11,3 +11,9 @@ nltk
 dataframe_image
 TweetNormalizer 
 nltk emoji==0.6.0
+sklearn
+seaborn
+statsmodels
+imbalanced-learn
+pickle
+witwidget
