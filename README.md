@@ -30,7 +30,7 @@ This directory contains all the scripts and notebooks used for various analyses 
   
 
 ### 2. `data/`
-This directory contains all the datasets used and generated in the project.
+This directory contains datasets used and generated in the project.
 
 - `1976-2020-president.csv`:
   - Dataset containing information about presidents from 1976 to 2020.
